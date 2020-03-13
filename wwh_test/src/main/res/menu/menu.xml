@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="专题" android:enabled="true" android:icon="@drawable/ic_menu_topic_nor" android:id="@+id/zhuanti"/>
+
+    <item android:title="我的" android:enabled="true" android:icon="@drawable/ic_menu_topic_pressed" android:id="@+id/own"/>
+
+</menu>
