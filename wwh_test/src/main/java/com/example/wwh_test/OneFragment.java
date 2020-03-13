@@ -19,7 +19,7 @@ import com.example.wwh_test.view.NetView;
 import java.util.ArrayList;
 import java.util.List;
 
-public class HomeFragment extends Fragment implements NetView {
+public class OneFragment extends Fragment implements NetView {
     private RecyclerView mMyRec;
     private List<Bean.DataBeanX.DataBean> list;
     private HomeAdapter zhuanTiAdapter;

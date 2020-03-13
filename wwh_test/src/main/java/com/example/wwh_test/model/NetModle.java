@@ -1,8 +1,10 @@
-package com.example.cs_demo.model;
+package com.example.wwh_test.model;
 
-import com.example.cs_demo.ApiService;
-import com.example.cs_demo.Bean;
-import com.example.cs_demo.presenter.NetPresenter;
+
+
+import com.example.wwh_test.ApiService;
+import com.example.wwh_test.Bean;
+import com.example.wwh_test.presenter.NetPresenter;
 
 import java.io.File;
 

@@ -1,2 +1,2 @@
-include ':app'
+include ':app', ':wwh_test'
 rootProject.name='Lx'

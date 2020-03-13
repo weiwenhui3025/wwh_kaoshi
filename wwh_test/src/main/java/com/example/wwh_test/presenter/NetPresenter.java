@@ -1,14 +1,13 @@
-package com.example.cs_demo.presenter;
+package com.example.wwh_test.presenter;
 
-import com.example.cs_demo.Bean;
-import com.example.cs_demo.NetCallBack;
-import com.example.cs_demo.model.NetModle;
-import com.example.cs_demo.view.NetView;
 
-import java.util.List;
+import com.example.wwh_test.Bean;
+import com.example.wwh_test.NetCallBack;
+import com.example.wwh_test.model.NetModle;
+import com.example.wwh_test.view.NetView;
 
 public class NetPresenter implements NetCallBack {
-    private  NetModle netModle;
+    private NetModle netModle;
     private NetView view;
 
     public NetPresenter(NetView view) {
